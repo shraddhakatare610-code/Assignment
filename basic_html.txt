@@ -1,0 +1,23 @@
+<!Doctype html>
+<html>
+<header>
+	<h1> Shraddhakatare </h1>
+	<body>
+		Information Technology
+	</body>
+	<p><b><i>
+	python is a general purpose high level programming language 
+• Python was developed by guido van rossam in 1989 while working at 
+national research institute at Netherlands
+• But officially python was made available to public in 1991. The official date 
+of birth for python is : Feb 20th 1991 
+• Python is recommended as first programming language for beginners 
+</p></b></i>
+	<h1>Information Technology</h1>	
+	<h2>Information Technology</h2>
+	<h3>Information Technology</h3>
+	<h4>Information Technology</h4>
+	<h5>Information Technology</h5>
+	<h6>Information Technology</h6>
+	</header>
+</html>
